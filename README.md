@@ -1,8 +1,11 @@
-Tableau
-Tableau Practice Projects Repository
+**Tableau**
+
+**Tableau Practice Projects Repository**
+
 Welcome to my Tableau Practice Projects Repository! This repository contains a collection of Tableau projects that I've worked on to enhance my skills and explore various analytical aspects. Each project focuses on different aspects of data visualization, analysis, and storytelling using Tableau.
 
-Projects Included:
+**Projects Included:**
+
 1. Asia Cup Match Dashboard
 Explore visualizations related to Asia Cup matches, including team performance, player statistics, and match outcomes. Gain insights into the dynamics of the cricket tournament through interactive charts and graphs.
 
